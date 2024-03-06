@@ -1,6 +1,6 @@
-# propCSS
+# propCSS · ease-to-use SvelteKit CSS
 
-`propCSS` is a TypeScript library that allows you to manage CSS properties in a more JavaScript-friendly way. It provides a simple and intuitive API to manipulate CSS properties directly from your TypeScript code inside your .svelte file.
+`propCSS` is a SvelteKit / TypeScript library that allows you to manage CSS properties in a more JavaScript-friendly way. It provides a simple and intuitive API to manipulate CSS properties directly from your SvelteKit code.
 
 ## Usage
 
