@@ -38,5 +38,19 @@
 	},
 	"svelte": "./dist/index.js",
 	"types": "./dist/index.d.ts",
-	"type": "module"
+	"type": "module",
+	"author": "TheFruxz (https://fruxz.dev)",
+	"bugs": {
+		"url": "https://github.com/TheFruxz/propCSS/issues"
+	},
+	"homepage": "https://github.com/TheFruxz/propCSS",
+	"keywords": [
+		"svelte",
+		"sveltekit",
+		"css",
+		"stylesheet",
+		"css-in-js",
+		"css-in-svelte"
+	],
+	"repository": "TheFruxz/propCSS"
 }
